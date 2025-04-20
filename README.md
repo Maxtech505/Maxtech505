@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Maxtech505
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning to use React
-- 💞️ I’m looking to collaborate on our capstone project
+- 👀 I’m interested in working with local businesses.
+- 🌱 I’m currently freelancing.
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me through discord @
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like bullys
+- ⚡ Fun fact: I like bully dogs.
 
 <!---
 Maxtech505/Maxtech505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
