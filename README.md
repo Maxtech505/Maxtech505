@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with local businesses.
 - 🌱 I’m currently freelancing.
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me through discord @
+- 📫 How to reach me through email Maximus4thepeople@gmail.com
 - ⚡ Fun fact: I like bully dogs.
 
 <!---
